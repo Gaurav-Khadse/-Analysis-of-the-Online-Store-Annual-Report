@@ -1,5 +1,5 @@
 
-# 🛒 Online Store Annual Report - Excel Dashboard
+# 🛒 Online Store Annual Report - Excel Report.
 
 ## Introduction
 In today’s fast-paced e-commerce landscape, understanding customer behavior, sales channels, and market demographics is essential for business success. Our Online Store Annual Report, built using Microsoft Excel, delivers actionable insights into sales performance, customer segmentation, and order trends throughout the year.
@@ -24,6 +24,9 @@ This Excel dashboard focuses on key analytical objectives:
 - Monthly Filter to Analyze Seasonal Trends
 
 ## Report
+
+![Screenshot 2025-05-31 185615](https://github.com/user-attachments/assets/976f6f42-b391-4a58-b7d1-cbd0a29206a2)
+
 
 ## Visualization Tools
 Tool Used 🛠️: Microsoft Excel
