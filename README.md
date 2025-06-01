@@ -45,6 +45,20 @@ This Excel Dashboard Project serves as a dynamic tool for online business owners
 
 Whether you're identifying top-performing states, understanding customer demographics, or tracking order statuses, this dashboard empowers you to make data-driven decisions confidently.
 
+Based on the data analysis:
+
+During the months of March to June, the highest sales were observed in the states of Maharashtra, Karnataka, and Uttar Pradesh.
+
+The majority of these sales came from women aged 25 to 50 in the Adult category.
+
+The most effective sales channels during this period were Amazon, Myntra, and Flipkart.
+
+Final Insight:
+"Target women customers (aged 25–50) during the hot summer season, especially those living in Maharashtra, Karnataka, and Uttar Pradesh, and run focused marketing campaigns on Amazon, Myntra, and Flipkart to boost sales."
+
+
+
+
 Connect With Me
 Feel free to reach out for any questions or suggestions regarding this project.
 Let’s connect and grow together!
