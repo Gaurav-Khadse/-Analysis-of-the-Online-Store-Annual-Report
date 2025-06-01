@@ -29,9 +29,7 @@ This Excel dashboard focuses on key analytical objectives:
 
 
 ## Visualization Tools
-Tool Used 🛠️: Microsoft Excel
-
-Dataset: Annual Sales Data of an Online Retail Store
+Tool Used 🛠️: Microsoft Excel.
 
 ## Visual Components:
 
