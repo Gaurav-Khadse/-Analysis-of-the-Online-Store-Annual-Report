@@ -23,6 +23,8 @@ This Excel dashboard focuses on key analytical objectives:
 
 - Monthly Filter to Analyze Seasonal Trends
 
+## Report
+
 ## Visualization Tools
 Tool Used 🛠️: Microsoft Excel
 
